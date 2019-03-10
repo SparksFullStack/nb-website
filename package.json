@@ -1,0 +1,22 @@
+{
+  "name": "nb-website",
+  "version": "1.0.0",
+  "description": "A website I'm working on for a client of mine who is in the film industry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparksFullStack/nb-website.git"
+  },
+  "author": "Charlie Sparks (Sparks Full-Stack)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SparksFullStack/nb-website/issues"
+  },
+  "homepage": "https://github.com/SparksFullStack/nb-website#readme",
+  "dependencies": {
+    "less": "^3.9.0"
+  }
+}
